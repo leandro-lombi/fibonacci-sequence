@@ -1,0 +1,1 @@
+Simple fibonacci sequence in GO
